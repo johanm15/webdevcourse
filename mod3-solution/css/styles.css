@@ -1,0 +1,52 @@
+/*Header */
+
+#header-nav{
+  background-color: #001A23;
+  border-radius: 0;
+  border: 0;
+  opacity: 0.8;
+}
+
+.navbar-brand{
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Galada', cursive;
+  color:white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom:0;
+  line-height: .75;
+  letter-spacing: 2px;
+}
+
+#nav-list {
+  margin-top: 10px;
+  background-color: #546A7B;
+}
+#nav-list a {
+  color: #FFFCFF;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #C3B299;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+/* Body*/
+
+#menu-title{
+  font-family: 'Galada', cursive;
+}
+
+#main-content p{
+  background-color: #C3B299;
+  font-family: 'Raleway', arial;
+}
